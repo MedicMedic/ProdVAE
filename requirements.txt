@@ -1,0 +1,12 @@
+pnumpy
+torch
+torchvision
+pretty_midi
+pypianoroll
+mido
+pandas
+scipy
+matplotlib
+jupyter
+tqdm
+scikit-learn
